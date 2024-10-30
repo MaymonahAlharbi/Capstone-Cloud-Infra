@@ -1,0 +1,6 @@
+Capstone-Cloud-Infra/.terraform
+Capstone-Cloud-Infra/.terraform.lock.hcl
+Capstone-Cloud-Infra/terraform.tfstate
+Capstone-Cloud-Infra/terraform.tfstate.backup
+Capstone-Cloud-Infra/variables.tf
+Capstone-Cloud-Infra/sec-key.pem
